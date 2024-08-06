@@ -1,5 +1,5 @@
 
-# Roadmap to Build a Multimodal
+# Roadmap to Generative Ai
 
 ## **Foundational Knowledge**
 1. **Mathematics**
