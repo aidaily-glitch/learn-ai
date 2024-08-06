@@ -1,5 +1,5 @@
 
-# Roadmap to Build a Multimodal Model
+# Roadmap to Build a Multimodal
 
 ## **Foundational Knowledge**
 1. **Mathematics**
